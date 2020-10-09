@@ -8,3 +8,5 @@ $git init
 Creating .md file and write on it
 $touch SDLC_Models.md
 $vi SDLC_Models.md
+
+https://atahancelebi.github.io/Atahan_Celebi/
